@@ -41,3 +41,11 @@ This engine is built with the following principles:
 The goal is to *understand physics engines by building one*, not just to use one.
 
 ---
+##  Tech Stack
+
+- *Language:* C++17+
+- *Build System:* CMake
+- *Rendering (optional / demo only):* SDL2
+- *Math:* Custom vector & geometry math (no glm)
+
+---
